@@ -1,0 +1,26 @@
+{
+    "en-US" = "English - United States";
+    "en" = "English";
+    "fr" = "French";
+    "fr-FR" = "French - France";
+    "de" = "German";
+    "pt-BR" = "Portuguese - Brazil";
+}
+
+{
+    en = English;
+    fr = French;
+    pt = Portuguese;
+    es = Spanish;
+    de = German;
+}
+
+{
+    US = "United States";
+    CA = "Canada";
+    ES = "Spain";
+    FR = "France";
+    BR = "Brazil";
+    CL = "Chile";
+    DE = "Germany";
+}

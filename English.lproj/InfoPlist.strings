@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "TBMime";
+CFBundleShortVersionString = "TBMime version 0.0.1d1";
+CFBundleGetInfoString = "TBMime version 0.0.1d1, Copyright 2000, Todd Blanchard.";
+NSHumanReadableCopyright = "Copyright 2000, Todd Blanchard.";
